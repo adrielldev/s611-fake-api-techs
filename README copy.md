@@ -36,4 +36,3 @@ GET /techs
 
 Endpoints visando criar ou ter acesso as endpoints de um usuário especifico.
 Outros users podem ver as outras techs, porém apenas o owner pode modificá-las
-

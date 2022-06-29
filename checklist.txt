@@ -1,0 +1,5 @@
+Conter uma rota na qual todos os usuários poderão ter acesso a leitura; => feito;
+Conter uma rota na qual apenas os usuários logados poderão ter acesso a leitura; => feito
+Criar ao menos uma relação entre duas das rotas existentes; => feito;
+Escrever um README.md, explicando quais os end-points e relacionamentos da sua API e como utilizar eles; => feito;
+Fazer o deploy da API no Heroku; => feito;
